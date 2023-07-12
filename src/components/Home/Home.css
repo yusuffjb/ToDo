@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+}
+
+.title {
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+
+.link {
+    display: inline-block;
+    margin: 8px;
+    color: blue;
+    text-decoration: underline;
+}
